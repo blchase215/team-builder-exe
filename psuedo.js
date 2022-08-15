@@ -2,7 +2,7 @@
 
 // WHEN I am prompted for my team members and their information
 
-    // take uer input and store in variables
+    // take user input and store in variables
     // use team member prototype and fill an array of each individual once completed
     
 // THEN an HTML file is generated that displays a nicely formatted team roster based on user input

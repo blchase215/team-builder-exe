@@ -6,4 +6,12 @@
 // requiring all necessary modules that make up app
 const inquirer = require("inqurer");
 const fs = require("fs");
+const start = require("./start.js");
+const loop = require("./loop.js");
+const complete = require("./complete.js")
 
+start;
+
+loop;
+
+complete;
